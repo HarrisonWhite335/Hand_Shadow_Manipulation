@@ -1,0 +1,1 @@
+Put asl_alphabet_test and asl_alphabet_test in this directory after downloading from https://www.kaggle.com/grassknoted/asl-alphabet
