@@ -54,4 +54,4 @@ correct hand sign for the letters. This step requires a knowledge of American Si
 Test the code by doing the aferomentioned emojis. 
 I love you sign is a special type of hand language. Please check the wiki article to understand this sign: https://en.wikipedia.org/wiki/ILY_sign
 
-NOTE: Taken from https://debuggercafe.com/american-sign-language-detection-using-deep-learning/ and edited.
+NOTE: Heavily inspired from https://debuggercafe.com/american-sign-language-detection-using-deep-learning/ and edited. No licensing could be found on page or website.
